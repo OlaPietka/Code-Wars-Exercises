@@ -23,7 +23,7 @@ An **isogram** is a word that has no repeating letters, consecutive or non-conse
 "Write a function that accepts a square matrix (N x N 2D array) and returns the determinant of the matrix."
 
 ### Primes in numbers
-"Given a positive number n > 1 find the prime factor decomposition of n. The result will be a string with the following form :
+"Given a positive number n > 1 find the prime factor decomposition of n. The result will be a string with the following form:
 `(p1**n1)(p2**n2)...(pk**nk)` 
 with the p(i) in increasing order and n(i) empty if n(i) is 1."
 
@@ -44,12 +44,12 @@ Return empty list if root is None."
 
 ### Sum of odd numbers
 "Given the triangle of consecutive odd numbers:
-
+`
              1
           3     5
        7     9    11
    13    15    17    19
-21    23    25    27    29 ...
+21    23    25    27    29 ...`
 Calculate the row sums of this triangle from the row index (starting at index 1)."
 
 
