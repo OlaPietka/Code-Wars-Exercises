@@ -6,7 +6,7 @@ In this repository there are few exercises from the [CodeWars](https://www.codew
 ### **Anagrams**
 An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
-"Write a function that will find all the anagrams of a word from a list. You will be given two inputs a word and an array with words. You should return an array of all the anagrams or an empty array if there are none." 
+"Write a function that will find all the anagrams of a word from a list. You will be given two inputs a word and an array with words. You should return an array of all the anagrams or an empty array if there are none."   
 
 ### Hamming Numbers 
 A **Hamming number** is a positive integer of the form 2<sup>i</sup>3<sup>j</sup>5<sup>k</sup>, for some non-negative integers i, j, and k.
