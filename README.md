@@ -24,7 +24,7 @@ An **isogram** is a word that has no repeating letters, consecutive or non-conse
 
 ### Primes in numbers
 "Given a positive number n > 1 find the prime factor decomposition of n. The result will be a string with the following form :
-`<addr>` (p1**n1)(p2**n2)...(pk**nk)
+`(p1**n1)(p2**n2)...(pk**nk)` 
 with the p(i) in increasing order and n(i) empty if n(i) is 1."
 
 ### Rectangle rotation
