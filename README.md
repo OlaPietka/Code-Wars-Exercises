@@ -31,7 +31,7 @@ with the p(i) in increasing order and n(i) empty if n(i) is 1."
 "A rectangle with sides equal to even integers a and b is drawn on the Cartesian plane. Its center (the intersection point of its diagonals) coincides with the point (0, 0), but the sides of the rectangle are not parallel to the axes; instead, they are forming 45 degree angles with the axes.
 How many points with integer coordinates are located inside the given rectangle (including on its sides)?"
 <p align="center">
-  <img src="https://files.gitter.im/myjinxin2015/raYf/blob">
+  <img weigth="250" height="250" src="https://files.gitter.im/myjinxin2015/raYf/blob">
 </p>
 
 ### Sort binary tree
@@ -49,8 +49,7 @@ Return empty list if root is None."
           3     5
        7     9    11
    13    15    17    19
-21    23    25    27    29
-...
+21    23    25    27    29 ...
 Calculate the row sums of this triangle from the row index (starting at index 1)."
 
 
