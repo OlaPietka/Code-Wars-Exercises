@@ -51,5 +51,5 @@ Return empty list if root is None."
             ...
 Calculate the row sums of this triangle from the row index (starting at index 1)."
 
-
-You can view my profile [here](https://www.codewars.com/users/ReViall/stats)
+----
+You can view my CodeWars profile [here](https://www.codewars.com/users/ReViall/stats)
